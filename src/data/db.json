@@ -1,0 +1,51 @@
+{
+  "blogs": [
+    {
+      "date": "20/07/23",
+      "organiser": "",
+      "venue": "Football Ground",
+      "start_time": "7",
+      "end_time": "8",
+      "description": "Football Match",
+      "id": 20
+    },
+    {
+      "date": "02/03/2003",
+      "organiser": "",
+      "venue": "quad",
+      "start_time": "12:00",
+      "end_time": "17:00",
+      "description": "future scope",
+      "id": 21
+    },
+    {
+      "date": "20/03/22",
+      "organiser": "",
+      "venue": "ground",
+      "start_time": "7",
+      "end_time": "9",
+      "description": "fun event",
+      "id": 22
+    }
+  ],
+  "comps": [
+    {
+      "name": "Devayani",
+      "date": "3/10/22",
+      "block": "Block E",
+      "room_no": "704",
+      "issuetype": "Cleanliness",
+      "complaint": "Not clean",
+      "id": 3
+    },
+    {
+      "name": "Asmita",
+      "date": "9/11/21",
+      "block": "",
+      "room_no": "706",
+      "issuetype": "",
+      "complaint": "not good",
+      "id": 6
+    }
+  ]
+}
