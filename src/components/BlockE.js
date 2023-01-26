@@ -6,11 +6,11 @@ export default function BlockE(){
  
   <div id="slider">
     <figure>
-      <img src="img/GirlsHostelBoth.png" />
-      <img src="img/HostelCloseUp.png" />
-      <img src="img/DoctorCabin.png" />
-      <img src="img/ViewWindow3.jpeg" />
-      <img src="img/ViewWindow2.png" />
+      <img src="./img/GirlsHostelBoth.jpg" />
+      <img src="./img/HostelCloseUp.jpg" />
+      <img src="./img/DoctorCabin.jpg" />
+      <img src="./img/ViewWindow3.jpg" />
+      <img src="./img/ViewWindow2.jpg" />
     </figure>
   </div>
   <div className="modal-header" >
